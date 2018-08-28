@@ -1,4 +1,4 @@
-Two-phase Multiway Merge-sort (2PMMS)
+# Two-phase Multiway Merge-sort (2PMMS)
 
 Phase 1: Sort main memory-sized partitions to
 produce the sorted sublists, also called the runs.
